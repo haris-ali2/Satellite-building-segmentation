@@ -19,7 +19,7 @@
 &emsp;&emsp;&emsp;&emsp;|\
 &emsp;&emsp;&emsp;&emsp;|______Image\
 &emsp;&emsp;&emsp;&emsp;|\
-&emsp;&emsp;&emsp;&emsp;|______Mask/
+&emsp;&emsp;&emsp;&emsp;|______Mask
 
 
 ## Model
@@ -31,9 +31,9 @@
 -----
 - The evaluation metrics are as follows\
 <space> `Training Dice loss: 0.09218`\
-`Training IoU Score: 0.8353`
+`Training IoU Score: 0.8353`\
 `Validation Dice loss: 0.1483`\
-`Validaation IoU Score: 0.7471`
+`Validaation IoU Score: 0.7471`\
 `Test Dice loss: 0.1482`\
 `Test IoU Score: 0.7517`
 
