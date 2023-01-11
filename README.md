@@ -43,6 +43,6 @@
 
 
 
-    <img src="results/1.png" alt="Result 1" style="height: 150px;width:450px;"/>
-    <img src="results/2.png" alt="Result 2" style="height: 150px;width:450px;"/>
+    <img src="results/1.png" alt="Result 1" style="height: 150px;width:450px;"/>\
+    <img src="results/2.png" alt="Result 2" style="height: 150px;width:450px;"/>\
     <img src="results/3.png" alt="Result 3" style="height: 150px;width:450px;"/>
