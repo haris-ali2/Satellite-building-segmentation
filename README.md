@@ -1,4 +1,4 @@
-# Segmentation of Satellite Imagery for Built Structure Detection
+# Satellite Imagery segmentation for Built Structure Analysis
 
 ## Data
 
